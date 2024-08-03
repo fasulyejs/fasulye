@@ -1,0 +1,17 @@
+{
+  "name": "fasulye",
+  "version": "0.0.1",
+  "description": "next generation for fvuarjs",
+  "main": "index.js",
+  "repository": "https://github.com/fasulyejs/fasulye.git",
+  "author": "ahmetcanisik <imcanisik@gmail.com> (https://ahmetcanisik.com)",
+  "license": "MIT",
+  "keywords": [
+    "fasulye",
+    "bean",
+    "fasulyejs",
+    "ahmetcanisik",
+    "fvuarjs"
+  ],
+  "private": false
+}
