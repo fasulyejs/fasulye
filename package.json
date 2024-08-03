@@ -1,6 +1,6 @@
 {
   "name": "fasulye",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "next generation for fvuarjs",
   "main": "index.js",
   "repository": "https://github.com/fasulyejs/fasulye.git",
