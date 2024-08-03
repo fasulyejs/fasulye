@@ -6,6 +6,9 @@
   "repository": "https://github.com/fasulyejs/fasulye.git",
   "author": "ahmetcanisik <imcanisik@gmail.com> (https://ahmetcanisik.com)",
   "license": "MIT",
+  "bin": {
+    "fasulye": "index.js"
+  },
   "keywords": [
     "fasulye",
     "bean",
